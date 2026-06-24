@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/la-foule/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For La Foule](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-foule/) |
+| **Get License** | [Secure Licensing Rights for La Foule](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-foule/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Paris s'éveille à peine sous les lumières du club
+> T'as ce regard qui tue, je n'ai plus aucun doute
+> Je me noie dans ton parfum, l'ivresse est totale
+> Viens plus près de moi, l'attraction est fatale
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
